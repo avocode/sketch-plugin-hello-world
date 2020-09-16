@@ -6,7 +6,8 @@
     {
       "name": "my-command",
       "identifier": "my-command-identifier",
-      "script": "./my-command.js"
+      "script": "./my-command.js",
+      "shortcut": "cmd shift i"
     }
   ],
   "icon": "./icon.png",
