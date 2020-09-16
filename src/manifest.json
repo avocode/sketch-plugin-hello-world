@@ -4,7 +4,7 @@
   "bundleVersion": 1,
   "commands": [
     {
-      "name": "my-command",
+      "name": "Count Artboards and Pages",
       "identifier": "my-command-identifier",
       "script": "./my-command.js",
       "shortcut": "cmd shift i"
