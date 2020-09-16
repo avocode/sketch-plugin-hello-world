@@ -7,7 +7,8 @@
   "skpm": {
     "name": "my-design-stats",
     "manifest": "src/manifest.json",
-    "main": "my-design-stats.sketchplugin"
+    "main": "my-design-stats.sketchplugin",
+    "assets": [ "./icon.png" ]
   },
   "scripts": {
     "build": "skpm-build",
