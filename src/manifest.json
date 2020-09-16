@@ -1,4 +1,5 @@
 {
+  "description": "Quickly count all pages and artboards in a design",
   "compatibleVersion": 3,
   "bundleVersion": 1,
   "commands": [
